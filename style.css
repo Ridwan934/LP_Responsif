@@ -1,0 +1,35 @@
+#navbar .container .menu-action
+{
+    width: 105px;
+    padding: 18px 0;
+    border-bottom: 1px solid #E5E5E5;
+}
+.btn-blue, .btn-blue-outline{
+    border-radius: 14px;
+    background-color: blue;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: white;
+    padding: 18px 44px;
+}
+.btn-blue-outline{
+    border: 1px solid blue;
+    background-color: transparent;
+    color: blue;
+}
+/* #hero .container .teks h2
+{
+    font-weight: 600px;
+    font-size: 36px;
+} */
+#hero .container .teks h2
+{
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 56px;
+    line-height: 66px;
+    color: #0A093D;
+}
